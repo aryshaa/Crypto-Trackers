@@ -2,7 +2,7 @@
 
 Use Crypto Monitor to track your cryptocurrency portfolio. All data is saved to local storage.
 
-[Demo Link](http://sales-person-compresses-32433.netlify.com/)
+[Demo Link](http://sales-person-compresses-32433.Arysha.com/)
 
 ## Running your service worker on your localhost
 
